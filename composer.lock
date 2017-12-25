@@ -33,7 +33,7 @@
             "version": "3.3.10",
             "source": {
                 "type": "git",
-                "url": "git@github.com:RobinHerbots/Inputmask.git",
+                "url": "https://github.com/RobinHerbots/Inputmask.git",
                 "reference": "14873e5775964275d13621cbe2b52e4448af3707"
             },
             "dist": {
@@ -270,16 +270,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.13",
+            "version": "2.0.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "7028aaa4e89275b6648497e3255f952ca157c1e3"
+                "reference": "7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/7028aaa4e89275b6648497e3255f952ca157c1e3",
-                "reference": "7028aaa4e89275b6648497e3255f952ca157c1e3",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf",
+                "reference": "7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf",
                 "shasum": ""
             },
             "require": {
@@ -366,7 +366,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2017-11-02T21:39:38+00:00"
+            "time": "2017-11-14T11:08:21+00:00"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
